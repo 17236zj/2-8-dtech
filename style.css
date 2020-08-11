@@ -1,15 +1,24 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
+  font-family: ambit;
   margin: 2em;
   background-color: #59BC3C; 
 }
 
 h1 {
+  font-family: Futura;
   font-style: #ABeeZee;
   color: white;
   text-align:center;
 }
 
+h2 {
+  font-family: Futura;
+  font-style: #futura;
+  color: white;
+}
 
+img {
+  width:100%;max-width:400px
+}
